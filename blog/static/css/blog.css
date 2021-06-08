@@ -16,20 +16,28 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Kaushan Script', cursive;
 }
 
 h2{
   color: #e99787;
   padding: 0.25em 0.5em;
-  border-left: solid 5px #e99787;
+  border-left: solid 8px #727077;
   background: #a49592;
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+p{
+  color: #e99787;
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 120%;
 }
 
 
 .date {
-    color: #727077;
-    border-top: solid 1px #eed8c9;
+    color: #eed8c9;
+    border-top: dashed 2px #a49592;
+    font-family: 'Yusei Magic', sans-serif;
 }
 
 .save {
@@ -49,8 +57,9 @@ h2{
 
 .post {
     margin-bottom: 70px;
+    margin-left: 20px;
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #000000;
+    color: #727077;
 }
