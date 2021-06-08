@@ -1,12 +1,12 @@
 .page-header {
-    background-color: #364e96;
+    background-color: #e99787;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
     text-align: center;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #eed8c9;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -20,16 +20,16 @@ h1, h2, h3, h4 {
 }
 
 h2{
-  color: #364e96;
+  color: #e99787;
   padding: 0.25em 0.5em;
-  border-left: solid 5px #364e96;
-  background: #dbdbff;
+  border-left: solid 5px #e99787;
+  background: #a49592;
 }
 
 
 .date {
-    color: #364e96;
-    border-top: solid 1px #364e96;
+    color: #727077;
+    border-top: solid 1px #eed8c9;
 }
 
 .save {
@@ -41,7 +41,7 @@ h2{
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #eed8c9;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
